@@ -10,7 +10,7 @@ plot_array_value = []   #记录a=0.3,b=0.7时的函数值
 plot_array_Totalk = []  #记录迭代次数
 plot_array_error = []
 delta = 10e-7
-#函数值
+#函数值_
 def f(tmp):
     x1=tmp[0]
     x2=tmp[1]
